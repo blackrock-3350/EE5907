@@ -16,7 +16,7 @@ You need download `libsvm` and `PyTorch`.
 - libsvm-official == 3.32.0
 - torch == 2.1.0
 
-see: [pip_list](https://github.com/blackrock-3350/EE5907/blob/main/pip_list) for more information.
+see: [pip_list](https://github.com/blackrock-3350/EE5907_CA2/blob/main/pip_list) for more information.
 
 ## Dataset
 
