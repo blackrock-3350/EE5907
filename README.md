@@ -2,9 +2,9 @@
 
 course project 2 of NUS EE5907
 
-For the course project, students will work individually to construct a face recognition system. Students are required to apply Principal Component Analysis (PCA) to perform data dimensionality reduction and visualization, in order to understand underlying data distribution.
+For the course project, students will work individually to construct a face recognition system. Students are required to apply Principal Component Analysis `PCA` to perform data dimensionality reduction and visualization, in order to understand underlying data distribution.
 
-Then students are required to train and apply three classification models – Linear Discriminative Analysis (LDA), Support Vector Machine (SVM) and Convolutional Neural Networks (CNN) – to classify the face images. Through the project, students are expected to gain basic and important knowledge of currently popular pattern recognition techniques.
+Then students are required to train and apply three classification models – Linear Discriminative Analysis `LDA`, Support Vector Machine `SVM` and Convolutional Neural Networks `CNN` – to classify the face images. Through the project, students are expected to gain basic and important knowledge of currently popular pattern recognition techniques.
 
 For [more information](https://drive.google.com/drive/folders/1Y9CfVH-NCxgkiNEHp7Mxsutd71uebtFW?usp=share_link), please refer to the CA PDF.
 
