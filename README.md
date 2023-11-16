@@ -8,10 +8,17 @@ Then students are required to train and apply three classification models – Li
 
 ## Requirements
 
-You need download 'libsvm' and 'PyTorch'.
+You need download `libsvm` and `PyTorch`.
 
 - Python 3.11
 - matplotlib == 3.7.1
 - numpy == 1.24.3
 - libsvm-official == 3.32.0
 - torch == 2.1.0
+
+see:
+
+## Dataset
+
+We use CMU PIE dataset
+In each jupyter notebook, datasets are
