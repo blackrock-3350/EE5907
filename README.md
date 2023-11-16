@@ -16,9 +16,9 @@ You need download `libsvm` and `PyTorch`.
 - libsvm-official == 3.32.0
 - torch == 2.1.0
 
-see:
+see: [pip_list]() for more information.
 
 ## Dataset
 
-We use CMU PIE dataset
+We use CMU PIE dataset, and add 10 self photos.
 In each jupyter notebook, datasets are
